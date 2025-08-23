@@ -34,7 +34,7 @@ lugar = input("Ingrese su lugar de residencia: ")
 print(f"Soy {nombre} {apellido}, tengo {edad} años y vivo en {lugar}.")
 
 """4) Crear un programa que pida al usuario el radio de un círculo e imprima por pantalla su área y
-su perímetro.
+su perímetro..
 """
 
 radio = float(input("Ingrese el radio del círculo: "))
