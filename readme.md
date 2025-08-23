@@ -3,7 +3,7 @@
 
 📍 Universidad Tecnológica Nacional
 
-## 👨‍🎓 Sobre el Estudiante
+## 👨‍🎓 Estudiante
 **Nombre**: Escalante Juan Facundo
 
 **Comisión**: A2025-4
