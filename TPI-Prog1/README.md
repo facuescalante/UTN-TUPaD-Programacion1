@@ -78,3 +78,11 @@ Trabajo realizado en el marco de la materia Programación 1, bajo la guía de:
 Docente Titular: Cinthia Rigoni (Comisión 4) - Sebastián Bruselario (Comisión 6)
 
 Docente Tutor: Ana Mutti (Comisión 4) - Flor Gubiotti (Comisión 6)
+
+---
+
+## 🔗 Enlace del proyecto
+
+Podés acceder a la presentación completa del Trabajo Práctico Integrador en el siguiente sitio web:  
+https://proyectoayso.my.canva.site/tpi-prog1
+
