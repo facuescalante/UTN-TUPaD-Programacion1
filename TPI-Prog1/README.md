@@ -47,6 +47,22 @@ Desarrollar un sistema modular que permita:
 
 ---
 
+## 🧪 Pruebas realizadas
+
+- Ingreso de datos válidos e inválidos.
+- Búsqueda por nombre parcial y completo.
+- Ordenamiento por población y superficie.
+- Verificación de persistencia en CSV.
+
+---
+
+## 📦 Requisitos
+
+- Python 3.8 o superior
+- Librerías estándar (`csv`, `os`, etc.)
+
+---
+
 ## 📂 Estructura del repositorio
 
 TPI-Prog1/ 
@@ -55,11 +71,15 @@ TPI-Prog1/
 ├── README.md # Documentación del proyecto 
 └── capturas/ # Imágenes de ejecución del programa
 
+---
+
 ## 👥 Autores
 
 María Aldana Hernández — marialdanahernandez@gmail.com
 
 Juan Facundo Escalante — facuescalante@gmail.com
+
+---
 
 ## 🙌 Agradecimientos
 
