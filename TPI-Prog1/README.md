@@ -66,6 +66,7 @@ Desarrollar un sistema modular que permita:
 ## 📂 Estructura del repositorio
 
 TPI-Prog1/ 
+
 ├── paises.py # Código fuente principal 
 
 ├── paises.csv # Dataset base con información de países 
