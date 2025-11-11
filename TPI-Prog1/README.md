@@ -67,8 +67,11 @@ Desarrollar un sistema modular que permita:
 
 TPI-Prog1/ 
 ├── paises.py # Código fuente principal 
+
 ├── paises.csv # Dataset base con información de países 
+
 ├── README.md # Documentación del proyecto 
+
 └── capturas/ # Imágenes de ejecución del programa
 
 ---
