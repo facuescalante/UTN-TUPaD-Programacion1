@@ -84,5 +84,5 @@ Docente Tutor: Ana Mutti (Comisión 4) - Flor Gubiotti (Comisión 6)
 ## 🔗 Enlace del proyecto
 
 Podés acceder a la presentación completa del Trabajo Práctico Integrador en el siguiente sitio web:  
-https://proyectoayso.my.canva.site/tpi-prog1
+https://goo.su/Jju8z
 
